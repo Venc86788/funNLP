@@ -41,7 +41,7 @@
 <!-- 
 目录（Table of contents）
 =================
-<table border="0">
+<table border="1">
  <tr>
     <td><b style="font-size:30px">:star:</b></td>
     <td><b style="font-size:30px">:star::star:</b></td>
